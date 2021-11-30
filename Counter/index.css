@@ -1,0 +1,19 @@
+#plus, #minus{
+    padding:5px;
+    width:100px;
+}
+
+#main{
+    width:197px;
+    height:30px;
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#flexi{
+    display: flex;
+    flex-direction: row;
+    padding-bottom:10px;
+}
