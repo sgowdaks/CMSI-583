@@ -19,6 +19,6 @@ Traffic Signal
 Timer
 
 
-<img src="https://github.com/sgowdaks/CMSI-583-01/blob/main/gifs/Timer.gif" width="300" height="300">
+<img src="https://github.com/sgowdaks/CMSI-583-01/blob/main/gifs/Timer.gif" width="200" height="200">
 
 
