@@ -6,7 +6,7 @@ Implementing Finite State Machine
 Elevator
 
 
-<img src="https://github.com/sgowdaks/CMSI-583-01/blob/main/gifs/Elevator.gif" width="200" height="400">
+<img style="margin-left: 100px" src="https://github.com/sgowdaks/CMSI-583-01/blob/main/gifs/Elevator.gif" width="200" height="400">
 
 
 Traffic Signal
