@@ -9,4 +9,11 @@ Elevator
 <img src="https://github.com/sgowdaks/CMSI-583-01/blob/main/gifs/Elevator.gif" width="200" height="400">
 
 
+Traffic Signal
+
+
+<img src="https://github.com/sgowdaks/CMSI-583-01/blob/main/gifs/Traffic-signal.gif" width="200" height="400">
+
+
+
 
